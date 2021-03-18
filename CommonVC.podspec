@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.license      = "Apache License 2.0"
   spec.author       = { "wangyang" => "wangyang@blued.com" }
   spec.platform     = :ios, "9.0"
-  spec.source       = { :http => "https://github.com/RuiHuang/CommmonVC.git"}
+  spec.source       = { :http => "https://github.com/RuiHuang/Module_CommonVC.git"}
   spec.source_files  = "Pod/Classes/**/*.h"
  
 end
